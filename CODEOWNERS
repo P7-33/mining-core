@@ -1,5 +1,5 @@
-# Note that the naming of this file is incorrect for our case: these people do not "own" the provided files but are
-# people with write-access to this repository (i.e. @Homebrew/core) who wish to be notified of changes to these
+
+#Note that the naming of this file is incorrect for our case: these people do not "own" the provided files but are # people with write-access to this repository (i.e. @Homebrew/core) who wish to be notified of changes to these
 # files.
 #
 # Their review is not required to merge PRs that change these files but just an indication that they wish to follow
