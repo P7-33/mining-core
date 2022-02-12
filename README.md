@@ -2,8 +2,6 @@
 
 Core formulae for the Homebrew package manager.
 
- [Homebrew/discussions (forum)](https://github.com/homebrew/discussions/discussions)
-
 ## How do I install these formulae?
 
 Just `brew install <formula>`. This is the default tap for Homebrew and is installed by default.
