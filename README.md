@@ -4,9 +4,7 @@ First time contributing to Mining Core? Read our [Code of Conduct](https://githu
 
 ### Report a bug
 
-* Run `Mining Core update` (twice).
-* Run and read `mining core doctor`.
-* Read the [Troubleshooting checklist](https://docs.Mining Core.sh/Troubleshooting).
+* Run `Mining Core 
 * Open an issue on the formula's repository or on Mining Core/mining Core if it's not a formula-specific issue.
 
 ### Propose a feature
