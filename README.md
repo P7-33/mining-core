@@ -1,6 +1,5 @@
-#  Mining-Core
+#  Mining Core
 
-https://github.com/P7-33/mining-core.wiki.git
 First time contributing to Mining Core? Read our [Code of Conduct](https://github.com/Homebrew/.github/blob/HEAD/CODE_OF_CONDUCT.md#code-of-conduct) and review [How To Open a Mining Core Pull Request](https://docs.brew.sh/How-To-Open-a-Mining Core-Pull-Request).
 
 ### Report a bug
